@@ -1,0 +1,1883 @@
+[
+ {
+  "id": "dz-adrar",
+  "name": "Radio Adrar – أدرار",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Adrar_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---001.png"
+ },
+ {
+  "id": "dz-internationale",
+  "name": "Algérie Internationale – الجزائر الدولية",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "GENERAL",
+  "url": "https://webradio3.tda.dz:8001/Internationale_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-rai-en-rouge.png"
+ },
+ {
+  "id": "dz-annaba",
+  "name": "Radio Annaba – عنابة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Annaba_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---023.png"
+ },
+ {
+  "id": "dz-aindefla",
+  "name": "Radio Aïn Defla – عين الدفلى",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/AinDefla_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---044.png"
+ },
+ {
+  "id": "dz-aintimouchent",
+  "name": "Radio Aïn Témouchent – عين تموشنت",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/AinTimouchent_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---046.png"
+ },
+ {
+  "id": "dz-batna",
+  "name": "Radio Batna – باتنة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Batna_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---005.png"
+ },
+ {
+  "id": "dz-bejaia",
+  "name": "Radio Bejaïa – بجاية",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Bejaia_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---006.png"
+ },
+ {
+  "id": "dz-biskra",
+  "name": "Radio Biskra – بسكرة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Biskra_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---007.png"
+ },
+ {
+  "id": "dz-blida",
+  "name": "Radio Blida – البليدة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Blida_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---009.png"
+ },
+ {
+  "id": "dz-bordjbouarreridj",
+  "name": "Radio Bordj Bou Arreridj – برج بوعريريج",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/BordjBouArreridj_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---034.png"
+ },
+ {
+  "id": "dz-bouira",
+  "name": "Radio Bouira – البويرة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Bouira_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---010.png"
+ },
+ {
+  "id": "dz-boumerdes",
+  "name": "Radio Boumerdès – بومرداس",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Boumerdes_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---035.png"
+ },
+ {
+  "id": "dz-chaine1",
+  "name": "Chaîne 1 – القناة الأولى",
+  "country": "DZ",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://webradio1.tda.dz:8001/Chaine1_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/logo-ch1-en-bleu.png"
+ },
+ {
+  "id": "dz-chaine2",
+  "name": "Chaîne 2 – القناة الثانية",
+  "country": "DZ",
+  "language": "ber",
+  "genre": "GENERAL",
+  "url": "https://webradio2.tda.dz:8001/Chaine2_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/chaine2.png"
+ },
+ {
+  "id": "dz-constantine",
+  "name": "Radio Constantine – قسنطينة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Constantine_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---025.png"
+ },
+ {
+  "id": "dz-coran",
+  "name": "Radio Coran – القرآن الكريم",
+  "country": "DZ",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://webradio1.tda.dz:8001/Coran_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/coran.png"
+ },
+ {
+  "id": "dz-culture",
+  "name": "Radio Culture – الثقافية",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "CULTURE",
+  "url": "https://webradio3.tda.dz:8001/Culture_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/culture.png"
+ },
+ {
+  "id": "dz-ouedsouf",
+  "name": "Radio El Oued – الوادي",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/ouedSouf_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---039.png"
+ },
+ {
+  "id": "dz-elbahdja",
+  "name": "El Bahdja – البهجة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "GENERAL",
+  "url": "https://webradio3.tda.dz:8001/ElBahdja_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/Logo-Bahdja.png"
+ },
+ {
+  "id": "dz-ghardaia",
+  "name": "Radio Ghardaïa – غرداية",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Ghardaia_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---047.png"
+ },
+ {
+  "id": "dz-guelma",
+  "name": "Radio Guelma – قالمة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Guelma_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---024.png"
+ },
+ {
+  "id": "dz-ifrikya",
+  "name": "Ifrikya FM – إفريقيا",
+  "country": "DZ",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://webradio1.tda.dz:8001/ifrikya_64K.mp3",
+  "logo": null
+ },
+ {
+  "id": "dz-illizi",
+  "name": "Radio Illizi – اليزي",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Illizi_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---033.png"
+ },
+ {
+  "id": "dz-jijel",
+  "name": "Radio Jijel – جيجل",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Jijel_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---018.png"
+ },
+ {
+  "id": "dz-jeunesse",
+  "name": "Jil FM – جيل أف أم",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "MUSIC",
+  "url": "https://webradio1.tda.dz:8001/Jeunesse_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/jilfm.png"
+ },
+ {
+  "id": "dz-khenchela",
+  "name": "Radio Khenchela – خنشلة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Khenchela_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---40.png"
+ },
+ {
+  "id": "dz-laghouat",
+  "name": "Radio Laghouat – الأغواط",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Laghouat_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---003.png"
+ },
+ {
+  "id": "dz-msila",
+  "name": "Radio M'sila – المسيلة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Msila_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---028.png"
+ },
+ {
+  "id": "dz-mila",
+  "name": "Radio Mila – ميلة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Mila_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---43.png"
+ },
+ {
+  "id": "dz-mostaganem",
+  "name": "Radio Mostaganem – مستغانم",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Mostaganem_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---027.png"
+ },
+ {
+  "id": "dz-naama",
+  "name": "Radio Naâma – النعامة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Naama_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---045.png"
+ },
+ {
+  "id": "dz-oran",
+  "name": "Radio Oran – وهران",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Oran_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---031.png"
+ },
+ {
+  "id": "dz-ouargla",
+  "name": "Radio Ouargla – ورقلة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Ouargla_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---030.png"
+ },
+ {
+  "id": "dz-chaine3",
+  "name": "Chaîne 3 – القناة الثالثة",
+  "country": "DZ",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://webradio1.tda.dz:8001/Chaine3_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/ch-3.png"
+ },
+ {
+  "id": "dz-relizan",
+  "name": "Radio Relizane – غليزان",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Relizan_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---048.png"
+ },
+ {
+  "id": "dz-setif",
+  "name": "Radio Setif – سطيف",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/Setif_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---019.png"
+ },
+ {
+  "id": "dz-sidibelabes",
+  "name": "Radio Sidi Bel Abbes – سيدي بلعباس",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio3.tda.dz:8001/SidiBelabes_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---022.png"
+ },
+ {
+  "id": "dz-skikda",
+  "name": "Radio Skikda – سكيكدة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Skikda_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---021.png"
+ },
+ {
+  "id": "dz-tamanrasset",
+  "name": "Radio Tamanrasset – تمنراست",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Tamanrasset_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---011.png"
+ },
+ {
+  "id": "dz-tiaret",
+  "name": "Radio Tiaret – تيارت",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Tiaret_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---014.png"
+ },
+ {
+  "id": "dz-tindouf",
+  "name": "Radio Tindouf – تندوف",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Tindouf_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---037.png"
+ },
+ {
+  "id": "dz-tipaza",
+  "name": "Radio Tipaza – تيبازة",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Tipaza_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---42.png"
+ },
+ {
+  "id": "dz-tissemssilt",
+  "name": "Radio Tissemsilt – تسمسيلت",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/Tissemssilt_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---038.png"
+ },
+ {
+  "id": "dz-tiziouzou",
+  "name": "Radio Tizi Ouzou – تيزي وزو",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio2.tda.dz:8001/TiziOuzou_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---015.png"
+ },
+ {
+  "id": "dz-tlemcen",
+  "name": "Radio Tlemcen – تلمسان",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "REGIONAL",
+  "url": "https://webradio1.tda.dz:8001/Tlemcen_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---013.png"
+ },
+ {
+  "id": "dz-zamen",
+  "name": "Zaman FM – زمان",
+  "country": "DZ",
+  "language": "ar,fr",
+  "genre": "MUSIC",
+  "url": "https://webradio2.tda.dz:8001/Zamen_64K.mp3",
+  "logo": "https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2023-06/logo_zmen_fm.png"
+ },
+ {
+  "id": "fr-france-inter",
+  "name": "France Inter",
+  "country": "FR",
+  "language": "fr",
+  "genre": "TALK",
+  "url": "https://icecast.radiofrance.fr/franceinter-hifi.aac",
+  "logo": null
+ },
+ {
+  "id": "fr-franceinfo",
+  "name": "franceinfo",
+  "country": "FR",
+  "language": "fr",
+  "genre": "NEWS",
+  "url": "https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8",
+  "logo": null
+ },
+ {
+  "id": "fr-france-culture",
+  "name": "France Culture",
+  "country": "FR",
+  "language": "fr",
+  "genre": "CULTURE",
+  "url": "https://icecast.radiofrance.fr/franceculture-midfi.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-france-musique",
+  "name": "France Musique",
+  "country": "FR",
+  "language": "fr",
+  "genre": "MUSIC",
+  "url": "https://icecast.radiofrance.fr/francemusique-midfi.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-mouv",
+  "name": "Mouv'",
+  "country": "FR",
+  "language": "fr",
+  "genre": "MUSIC",
+  "url": "https://icecast.radiofrance.fr/mouv-midfi.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-fip",
+  "name": "FIP",
+  "country": "FR",
+  "language": "fr",
+  "genre": "MUSIC",
+  "url": "https://stream.radiofrance.fr/fip/fip_hifi.m3u8",
+  "logo": null
+ },
+ {
+  "id": "fr-rfi-monde",
+  "name": "RFI Monde",
+  "country": "FR",
+  "language": "fr",
+  "genre": "NEWS",
+  "url": "https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-mc-doualiya",
+  "name": "Monte Carlo Doualiya – مونت كارلو الدولية",
+  "country": "FR",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-europe-1",
+  "name": "Europe 1",
+  "country": "FR",
+  "language": "fr",
+  "genre": "NEWS",
+  "url": "https://stream.europe1.fr/europe1.aac",
+  "logo": null
+ },
+ {
+  "id": "fr-rmc",
+  "name": "RMC",
+  "country": "FR",
+  "language": "fr",
+  "genre": "TALK",
+  "url": "https://audio.bfmtv.com/rmcradio_128.mp3",
+  "logo": "https://rmc.bfmtv.com/apple-icon-228x228.png"
+ },
+ {
+  "id": "fr-bfm",
+  "name": "BFM Radio",
+  "country": "FR",
+  "language": "fr",
+  "genre": "NEWS",
+  "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-sud-radio",
+  "name": "Sud Radio",
+  "country": "FR",
+  "language": "fr",
+  "genre": "TALK",
+  "url": "https://ice.creacast.com/sudradio",
+  "logo": null
+ },
+ {
+  "id": "fr-radio-classique",
+  "name": "Radio Classique",
+  "country": "FR",
+  "language": "fr",
+  "genre": "MUSIC",
+  "url": "https://str0.creacast.com/classique1",
+  "logo": null
+ },
+ {
+  "id": "fr-ouifm",
+  "name": "OUI FM",
+  "country": "FR",
+  "language": "fr",
+  "genre": "MUSIC",
+  "url": "https://ouifm.ice.infomaniak.ch/ouifm-high.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-beur-fm",
+  "name": "Beur FM",
+  "country": "FR",
+  "language": "fr,ar",
+  "genre": "MUSIC",
+  "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-france-maghreb-2",
+  "name": "France Maghreb 2",
+  "country": "FR",
+  "language": "fr,ar",
+  "genre": "MUSIC",
+  "url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+  "logo": null
+ },
+ {
+  "id": "fr-radio-orient",
+  "name": "Radio Orient – راديو الشرق",
+  "country": "FR",
+  "language": "ar,fr",
+  "genre": "GENERAL",
+  "url": "https://stream.rcs.revma.com/7hnrkawf4p8uv.mp3",
+  "logo": null
+ },
+ {
+  "id": "quran-mp3quran-mix",
+  "name": "إذاعة القرآن الكريم – منوّعة (Mp3Quran)",
+  "country": "SA",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://qurango.net/radio/mix",
+  "logo": null
+ },
+ {
+  "id": "quran-mp3quran-tarateel",
+  "name": "ترتيل – Mp3Quran",
+  "country": "SA",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://qurango.net/radio/tarateel",
+  "logo": null
+ },
+ {
+  "id": "quran-maher-almuaiqly",
+  "name": "ماهر المعيقلي",
+  "country": "SA",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://backup.qurango.net/radio/maher",
+  "logo": null
+ },
+ {
+  "id": "quran-mishary-alafasy",
+  "name": "مشاري العفاسي",
+  "country": "KW",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://qurango.net/radio/mishary_alafasi",
+  "logo": null
+ },
+ {
+  "id": "quran-yasser-aldosari",
+  "name": "ياسر الدوسري",
+  "country": "SA",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://qurango.net/radio/yasser_aldosari",
+  "logo": null
+ },
+ {
+  "id": "quran-hussary-warsh",
+  "name": "محمود خليل الحصري – ورش",
+  "country": "EG",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://qurango.net/radio/mahmoud_khalil_alhussary_warsh",
+  "logo": null
+ },
+ {
+  "id": "quran-mustafa-ismail",
+  "name": "مصطفى إسماعيل",
+  "country": "EG",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://qurango.net/radio/mustafa_ismail",
+  "logo": null
+ },
+ {
+  "id": "quran-tafseer-ibn-uthaymeen",
+  "name": "تفسير ابن عثيمين",
+  "country": "SA",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://qurango.net/radio/tafseer",
+  "logo": null
+ },
+ {
+  "id": "sa-sba-riyadh",
+  "name": "إذاعة الرياض 91.5 – SBA",
+  "country": "SA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://live.kwikmotion.com/sbrksariyadhradiolive/ksariyadhradio/chunks.m3u8",
+  "logo": "https://yt3.googleusercontent.com/ytc/AIdro_k324qvjEM5bhCaJEc3cSo8d9oNDYKjAf4a13lyPcPQTg=s900-c-k-c0x00ffffff-no-rj"
+ },
+ {
+  "id": "sa-sba-jeddah",
+  "name": "إذاعة جدة 98.0 – SBA",
+  "country": "SA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1uuZT2g3hKsrluz6M7Tb24m0U2wb1Z-k2VAq1VTN6ag&s"
+ },
+ {
+  "id": "sa-mbc-fm",
+  "name": "MBC FM",
+  "country": "SA",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://radio-mbcfm.mbc.net/radio-mbcfm_1.m3u8",
+  "logo": "https://assets-new.mbcmood.com/mbc-mood/channel/6adb0cd12bdd7.png"
+ },
+ {
+  "id": "sa-panorama-fm",
+  "name": "Panorama FM",
+  "country": "SA",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://radio-panoramafm.mbc.net/radio-panoramafm_1.m3u8",
+  "logo": null
+ },
+ {
+  "id": "sa-alarabiya-fm",
+  "name": "العربية FM",
+  "country": "SA",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://fm.alarabiya.net/fm/myStream/playlist.m3u8",
+  "logo": null
+ },
+ {
+  "id": "ae-sharjah-quran",
+  "name": "إذاعة القرآن الكريم – الشارقة",
+  "country": "AE",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+  "logo": null
+ },
+ {
+  "id": "qa-aljazeera-voice",
+  "name": "الجزيرة صوت",
+  "country": "QA",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
+  "logo": null
+ },
+ {
+  "id": "qa-alaraby",
+  "name": "العربي – راديو",
+  "country": "QA",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+  "logo": null
+ },
+ {
+  "id": "eg-radio-9090",
+  "name": "راديو 9090",
+  "country": "EG",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://9090streaming.mobtada.com/9090FMEGYPT",
+  "logo": "https://www.9090.fm/images/logo.png"
+ },
+ {
+  "id": "ma-medi1",
+  "name": "Medi1 Radio – ميدي 1",
+  "country": "MA",
+  "language": "ar,fr",
+  "genre": "GENERAL",
+  "url": "https://cdn.live.easybroadcast.io/live/83_medi1radio-maghreb_8s9i4bn/playlist.m3u8",
+  "logo": "https://radiolive.ma/icons/MEDI%201%20RADIO.jpg"
+ },
+ {
+  "id": "ma-radio-mars",
+  "name": "Radio Mars",
+  "country": "MA",
+  "language": "ar,fr",
+  "genre": "SPORTS",
+  "url": "https://radiomars.ice.infomaniak.ch/radiomars-128.mp3",
+  "logo": null
+ },
+ {
+  "id": "ma-hit-radio",
+  "name": "Hit Radio",
+  "country": "MA",
+  "language": "ar,fr",
+  "genre": "MUSIC",
+  "url": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+  "logo": "https://www.hitradio.ma/logo/small-logo-hitradio.webp"
+ },
+ {
+  "id": "ma-medina-fm",
+  "name": "Medina FM",
+  "country": "MA",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://medinafm.ice.infomaniak.ch/medinafm-64.mp3",
+  "logo": "https://radiolive.ma/icons/MEDINAFM.png"
+ },
+ {
+  "id": "ma-medina-amazigh",
+  "name": "Medina FM Amazigh",
+  "country": "MA",
+  "language": "ber",
+  "genre": "MUSIC",
+  "url": "https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3",
+  "logo": "https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6-w320.webp"
+ },
+ {
+  "id": "ma-u-radio",
+  "name": "U Radio",
+  "country": "MA",
+  "language": "ar,fr",
+  "genre": "MUSIC",
+  "url": "https://uradio-aac.ice.infomaniak.ch/uradio.aac",
+  "logo": "https://radiolive.ma/logos/u-radio.png"
+ },
+ {
+  "id": "tn-mosaique-fm",
+  "name": "Mosaïque FM",
+  "country": "TN",
+  "language": "ar,fr",
+  "genre": "GENERAL",
+  "url": "https://radio.mosaiquefm.net/mosalive",
+  "logo": null
+ },
+ {
+  "id": "tn-jawhara-fm",
+  "name": "Jawhara FM",
+  "country": "TN",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://streaming2.toutech.net/jawharafm",
+  "logo": null
+ },
+ {
+  "id": "tn-zitouna-fm",
+  "name": "Zitouna FM – إذاعة الزيتونة",
+  "country": "TN",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://radio.radiotunisienne.tn/radiozaitouna",
+  "logo": "https://www.tunisie-radio.com/sites/default/files/styles/medium_2/public/radio/zitouna-fm.jpg"
+ },
+ {
+  "id": "tn-radio-monastir",
+  "name": "Radio Monastir – إذاعة المنستير",
+  "country": "TN",
+  "language": "ar",
+  "genre": "REGIONAL",
+  "url": "https://radio.radiotunisienne.tn/monastir",
+  "logo": "https://www.radiomonastir.tn/monastir/apple-touch-icon.png"
+ },
+ {
+  "id": "tn-express-fm",
+  "name": "Express FM",
+  "country": "TN",
+  "language": "fr,ar",
+  "genre": "NEWS",
+  "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+  "logo": "https://radioexpressfm.com/wp-content/uploads/2022/02/cropped-logo-2-192x192.png"
+ },
+ {
+  "id": "lb-voice-of-lebanon",
+  "name": "صوت لبنان – Voice of Lebanon",
+  "country": "LB",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://l3.itworkscdn.net/itwaudio/9054/stream",
+  "logo": "https://www.vdl.me/wp-content/uploads/2020/12/images.png"
+ },
+ {
+  "id": "lb-sawt-el-ghad",
+  "name": "صوت الغد – Sawt El Ghad",
+  "country": "LB",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://l3.itworkscdn.net/itwaudio/9030/stream/",
+  "logo": "https://www.sawtelghad.com/seg.png"
+ },
+ {
+  "id": "lb-radio-liban",
+  "name": "Radio Liban – إذاعة لبنان",
+  "country": "LB",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://media2.streambrothers.com:2020/stream/8194",
+  "logo": null
+ },
+ {
+  "id": "jo-jordan-radio",
+  "name": "إذاعة الأردن",
+  "country": "JO",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://jrtv-live.ercdn.net/jrradio/jordanradiovideo.m3u8",
+  "logo": null
+ },
+ {
+  "id": "jo-quran-radio",
+  "name": "إذاعة القرآن الكريم – الأردن",
+  "country": "JO",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8",
+  "logo": null
+ },
+ {
+  "id": "jo-mazaj-fm",
+  "name": "Mazaj FM",
+  "country": "JO",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3",
+  "logo": "https://cdn.onlineradiobox.com/img/l/6/43386.v10.png"
+ },
+ {
+  "id": "bh-bahrain-fm",
+  "name": "Bahrain FM 93.3",
+  "country": "BH",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-93-3_all/playlist.m3u8",
+  "logo": null
+ },
+ {
+  "id": "bh-bahrain-quran",
+  "name": "إذاعة القرآن الكريم – البحرين 106.1",
+  "country": "BH",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://5c7b683162943.streamlock.net/live/ngrp:radio-106-1_all/playlist.m3u8",
+  "logo": null
+ },
+ {
+  "id": "om-quran",
+  "name": "إذاعة القرآن الكريم – سلطنة عُمان",
+  "country": "OM",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8",
+  "logo": null
+ },
+ {
+  "id": "fr-rtl",
+  "name": "RTL",
+  "country": "FR",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8",
+  "logo": null
+ },
+ {
+  "id": "fr-nostalgie-hq",
+  "name": "Nostalgie HQ",
+  "country": "FR",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://streaming.nrjaudio.fm/oua8a3w2dqao?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=",
+  "logo": null
+ },
+ {
+  "id": "fr-nrj-hits",
+  "name": "Nrj Hits",
+  "country": "FR",
+  "language": "fr",
+  "genre": "MUSIC",
+  "url": "https://streaming.nrjaudio.fm/ou7xugf3s5gi?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Hits",
+  "logo": null
+ },
+ {
+  "id": "fr-ch-rie-fm",
+  "name": "Chérie FM",
+  "country": "FR",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
+  "logo": "https://media.info/l/o/6/6812.1503485369.png"
+ },
+ {
+  "id": "fr-rire-et-chansons",
+  "name": "Rire et Chansons",
+  "country": "FR",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://streaming.nrjaudio.fm/ou8o8xgk7oiu?origine=fluxradios",
+  "logo": null
+ },
+ {
+  "id": "fr-eurodance-90-radio",
+  "name": "EuroDance 90 radio",
+  "country": "FR",
+  "language": "fr",
+  "genre": "MUSIC",
+  "url": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323",
+  "logo": null
+ },
+ {
+  "id": "fr-nrj-paris",
+  "name": "NRJ Paris",
+  "country": "FR",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://streaming.nrjaudio.fm/ou5k6tirv93h",
+  "logo": null
+ },
+ {
+  "id": "fr-skyrock-klassics",
+  "name": "Skyrock Klassics",
+  "country": "FR",
+  "language": "fr",
+  "genre": "MUSIC",
+  "url": "https://icecast.skyrock.net/s/klassiks_aac_64k?tvr_name=radiofr&tvr_section1=64aac",
+  "logo": null
+ },
+ {
+  "id": "lb-station",
+  "name": "فيروز",
+  "country": "LB",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://stream.zeno.fm/9vrahqqfuuhvv",
+  "logo": null
+ },
+ {
+  "id": "eg-om-kalthom",
+  "name": "OM Kalthom أم كلثوم",
+  "country": "EG",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://stream.zeno.fm/zsgrfxg71s8uv",
+  "logo": null
+ },
+ {
+  "id": "fr-rfi-chinese",
+  "name": "RFI-Chinese",
+  "country": "FR",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",
+  "logo": null
+ },
+ {
+  "id": "bh-live-fm",
+  "name": "Live FM",
+  "country": "BH",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.aiir.com/dbv0rxpwp6ytv",
+  "logo": null
+ },
+ {
+  "id": "fr-rire-et-chansons-sketches",
+  "name": "Rire et Chansons Sketches",
+  "country": "FR",
+  "language": "fr",
+  "genre": "GENERAL",
+  "url": "https://streaming.nrjaudio.fm/ou8oqegk7oiu?aw_0_1st.station=Rire-Chansons-SKETCHES&origine=mytuner",
+  "logo": null
+ },
+ {
+  "id": "eg-nogoum-fm",
+  "name": "Nogoum FM",
+  "country": "EG",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream-159.zeno.fm/qb1zvsykm98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxYjF6dnN5a205OHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ild2WTItbVhJU2Z5VlBEOHc3a2J1X0EiLCJpYXQiOjE3NzA5ODcyOTUsImV4cCI6MTc3MDk4NzM1NX0.ob8jdjoAgAzIcrxMk5b127wgaxpnJHEASSChnE5v5ro",
+  "logo": "https://www.nogoumfm.net/wp-content/uploads/2019/12/logo-nogoum-1.png"
+ },
+ {
+  "id": "fr-rmc-info-talk-sport",
+  "name": "RMC Info Talk Sport",
+  "country": "FR",
+  "language": "fr",
+  "genre": "NEWS",
+  "url": "https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aggregator=RMC_audio_web",
+  "logo": null
+ },
+ {
+  "id": "sy-radio-nasaem",
+  "name": "Radio Nasaem راديو نسائم",
+  "country": "SY",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/u1wbm3k7gxquv",
+  "logo": "https://nasaem.fm/wp-content/uploads/2026/01/Logo-N-26.jpg"
+ },
+ {
+  "id": "ye-sana-a-radio",
+  "name": "Sana’a Radio راديو صنعاء",
+  "country": "YE",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://dc5.serverse.com/proxy/pbmhbvxs/stream",
+  "logo": null
+ },
+ {
+  "id": "ma-radio-plus-agadir-fm-92-4",
+  "name": "Radio Plus Agadir FM 92.4",
+  "country": "MA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream-158.zeno.fm/bqdbb6hd0neuv",
+  "logo": null
+ },
+ {
+  "id": "iq-sumerfm-iraq",
+  "name": "SumerFm Iraq",
+  "country": "IQ",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://l3.itworkscdn.net/itwaudio/9012/stream",
+  "logo": null
+ },
+ {
+  "id": "eg-on-sports-fm",
+  "name": "On sports FM",
+  "country": "EG",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
+  "logo": null
+ },
+ {
+  "id": "eg-sha3by-fm",
+  "name": "SHA3BY FM",
+  "country": "EG",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://radio95.radioca.st/;",
+  "logo": null
+ },
+ {
+  "id": "ae-exclusively-pink-floyd",
+  "name": "Exclusively Pink Floyd",
+  "country": "AE",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+  "logo": "https://s1.qwant.com/thumbr/474x316/9/c/c7c07b531c2a5efb3f78e3e05fe286b3efb3f51ca0450cd2b875c5c724dd38/OIP.iAveVg4WM9IyCkPL_0w-mwHaE8.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.iAveVg4WM9IyCkPL_0w-mwHaE8%3Fpid%3DApi&q=0&b=1&p=0&a=0"
+ },
+ {
+  "id": "eg-abdel-halim-hafez",
+  "name": "Abdel Halim Hafez عبدالحليم حافظ",
+  "country": "EG",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://stream.zeno.fm/8a4eqkd0pnhvv",
+  "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDwzeSctQkMCxIOU3RhdGlvblByb2ZpbGUYgICI2cGI5gsMogEEemVubw/image/?u=1661122932000"
+ },
+ {
+  "id": "lb-radio-liban-libre",
+  "name": "Radio Liban Libre",
+  "country": "LB",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://edge.mixlr.com/channel/qtqeb",
+  "logo": null
+ },
+ {
+  "id": "sy-tayf-fm",
+  "name": "Tayf Fm - راديو طيف - صدى السوريين",
+  "country": "SY",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/xbohf8qf5uauv",
+  "logo": "https://tayf.fm/logo192.png"
+ },
+ {
+  "id": "ps-station",
+  "name": "راديو الناس",
+  "country": "PS",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+  "logo": null
+ },
+ {
+  "id": "tn-diwanfm",
+  "name": "diwanfm",
+  "country": "TN",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://streaming.diwanfm.net/stream",
+  "logo": null
+ },
+ {
+  "id": "jo-hayat-fm",
+  "name": "Hayat FM",
+  "country": "JO",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://dc1.serverse.com/proxy/kjxwtpdt/stream",
+  "logo": null
+ },
+ {
+  "id": "eg-amr-diab-radio",
+  "name": "Amr Diab Radio",
+  "country": "EG",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://stream-40.zeno.fm/xa4yhh4k838uv?zs=gojgaFRaRrK1wgGIwdv6xA",
+  "logo": null
+ },
+ {
+  "id": "sy-rayan-fm",
+  "name": "Rayan FM",
+  "country": "SY",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://broadcast.shoutstream.co.uk:8078/stream",
+  "logo": "https://rayanfm.net/logo.webp"
+ },
+ {
+  "id": "sy-al-karma-fm",
+  "name": "Al Karma FM",
+  "country": "SY",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://broadcast.shoutstream.co.uk/stream/8112",
+  "logo": "https://cdn-profiles.tunein.com/s352111/images/logod.png?t=639052093240000000"
+ },
+ {
+  "id": "sy-syria-tv",
+  "name": "Syria TV",
+  "country": "SY",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://live.kwikmotion.com/syriatvlive/syriatv_audio/playlist.m3u8",
+  "logo": null
+ },
+ {
+  "id": "lb-station-2",
+  "name": "رحبانيات",
+  "country": "LB",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/4g8xck48kfhvv",
+  "logo": null
+ },
+ {
+  "id": "ma-skyrock-casablanca",
+  "name": "Skyrock Casablanca",
+  "country": "MA",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://icecast.skyrock.net/s/casa_aac_64k",
+  "logo": null
+ },
+ {
+  "id": "lb-al-bal-radio",
+  "name": "Al Bal Radio",
+  "country": "LB",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://albal-lbnet2.radioca.st/stream",
+  "logo": "https://i.ibb.co/HT3zGP3/cover.png"
+ },
+ {
+  "id": "sy-farah-fm",
+  "name": "Farah FM",
+  "country": "SY",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://radio.farah.fm/",
+  "logo": null
+ },
+ {
+  "id": "ye-quran",
+  "name": ". quran",
+  "country": "YE",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+  "logo": null
+ },
+ {
+  "id": "lb-fairuz",
+  "name": "Fairuz فيروز",
+  "country": "LB",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://stream.zeno.fm/xkhnk4vee18uv",
+  "logo": null
+ },
+ {
+  "id": "iq-darusalam-radio",
+  "name": "Darusalam Radio",
+  "country": "IQ",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://streams.radio.co/s0975ec186/listen",
+  "logo": null
+ },
+ {
+  "id": "ps-ajyal-palestine",
+  "name": "Ajyal - Palestine",
+  "country": "PS",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://streamer.mada.ps:8208/ajyal",
+  "logo": null
+ },
+ {
+  "id": "ma-radio-manarat",
+  "name": "Radio Manarat",
+  "country": "MA",
+  "language": "ar",
+  "genre": "TALK",
+  "url": "https://listen.radioking.com/radio/252934/stream/297385",
+  "logo": null
+ },
+ {
+  "id": "kw-quran-radio-kuwait",
+  "name": "Quran Radio راديو القرآن - Kuwait الكويت",
+  "country": "KW",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://radio.mp3islam.com/listen/quran_radio/radio.mp3",
+  "logo": null
+ },
+ {
+  "id": "ye-station",
+  "name": "صوت المقاومة",
+  "country": "YE",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://node-23.zeno.fm/b67qheuk54zuv",
+  "logo": null
+ },
+ {
+  "id": "lb-anghamy",
+  "name": "Anghamy",
+  "country": "LB",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://radio.avazfarsi.com:8010/radio.mp3",
+  "logo": "https://play-lh.googleusercontent.com/ujF6XWh2xUPiqk5XUeFxA0r0VLCmqZky9KBhIco2xjWBIKcpwsp1G7Fbsn0ONc5YamKj=w240-h480-rw"
+ },
+ {
+  "id": "ae-exclusively-pink-floyd-hits",
+  "name": "Exclusively Pink Floyd - HITS",
+  "country": "AE",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://streaming.exclusive.radio/er-app/pinkfloydhits/icecast.audio",
+  "logo": null
+ },
+ {
+  "id": "ps-raya-fm",
+  "name": "Raya FM",
+  "country": "PS",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://rstream.hadara.ps/proxy/raya/stream",
+  "logo": "https://static-roov.rctiplus.id/images/radio/raya-fm-1753330916.jpg"
+ },
+ {
+  "id": "ma-tarab-radio",
+  "name": "Tarab Radio",
+  "country": "MA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/fy8achbq97zuv",
+  "logo": "https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/64429.png"
+ },
+ {
+  "id": "lb-fairouz",
+  "name": "Fairouz",
+  "country": "LB",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream-155.zeno.fm/9vrahqqfuuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dnJhaHFxZnV1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJWZ1h0SmNZUlZxUm9XeTd6amlkTVEiLCJpYXQiOjE3NDg2Nzg2NTksImV4cCI6MTc0ODY3ODcxOX0.JUJKFflQ3A2RrO_QB-EmeqGocncaUaCXOs_tSTYAqAA",
+  "logo": null
+ },
+ {
+  "id": "jo-ain-fm",
+  "name": "Ain FM",
+  "country": "JO",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://radio.ainfm.site/ainfm",
+  "logo": null
+ },
+ {
+  "id": "ae-exclusively-iron-maiden",
+  "name": "Exclusively Iron Maiden",
+  "country": "AE",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://streaming.exclusive.radio/er/ironmaiden/icecast.audio",
+  "logo": null
+ },
+ {
+  "id": "iq-alseraj-radio-islam",
+  "name": "Alseraj Radio Islam",
+  "country": "IQ",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://eu4.fastcast4u.com/proxy/aabdul00?mp=/1",
+  "logo": null
+ },
+ {
+  "id": "ma-ma-hit-radio-maroc",
+  "name": "MA:-Hit Radio Maroc",
+  "country": "MA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/une3a02mb",
+  "logo": null
+ },
+ {
+  "id": "lb-station-3",
+  "name": "صوت كل لبنان",
+  "country": "LB",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://audio.osina.cloud:9323/stream",
+  "logo": null
+ },
+ {
+  "id": "iq-station",
+  "name": ". القارئ محمد أيوب",
+  "country": "IQ",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://qurango.net/radio/mohammed_ayyub",
+  "logo": null
+ },
+ {
+  "id": "ps-sawt-el-ghad-tarab",
+  "name": "Sawt El Ghad - Tarab",
+  "country": "PS",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://sawtelghad.org:7007/;",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7bT8sxvjzHGaSGYnFogkr7zWi0Fjubf_E-lKsH42c7g&s=10"
+ },
+ {
+  "id": "ye-station-2",
+  "name": "راديو الشيخ محمد المقرمي إذاعة (هندسة القلوب)",
+  "country": "YE",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://s1.reliastream.com/proxy/almaqrami?mp=/stream",
+  "logo": null
+ },
+ {
+  "id": "ye-station-3",
+  "name": "إذاعة القرآن الكريم (صنعاء)",
+  "country": "YE",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://halo.streamerr.co/listen/quran_kareem/radio.mp3",
+  "logo": null
+ },
+ {
+  "id": "ae-exclusively-led-zeppelin",
+  "name": "Exclusively Led Zeppelin",
+  "country": "AE",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio",
+  "logo": null
+ },
+ {
+  "id": "iq-al-rasheed-fm",
+  "name": "Al rasheed fm",
+  "country": "IQ",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://streaming.shoutcast.com/alrasheed-fm?1719771692024",
+  "logo": null
+ },
+ {
+  "id": "sa-mx2",
+  "name": "_MX2✨",
+  "country": "SA",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://stream.zeno.fm/66gp9qukxaquv",
+  "logo": null
+ },
+ {
+  "id": "sa-station",
+  "name": "إذاعة القرآن الكريم (مكة المكرمة)",
+  "country": "SA",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://edge.mixlr.com/channel/rwumx",
+  "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l7-P-EYqU6nvNkyJreIBeeU5YrB2Yl7NlLZH7Q%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1&ipt=be99841f3a5400a88c7503f144430b73989924c3b2990e794b76c06b1cc36491"
+ },
+ {
+  "id": "sa-5-replay-news",
+  "name": "إذاعة الأخبار كل 5 دقائق REPLAY NEWS - العربية",
+  "country": "SA",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://replaynewsar.ice.infomaniak.ch/replaynewsar-128.mp3",
+  "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-AR.png"
+ },
+ {
+  "id": "sa-alifalif-fm",
+  "name": "AlifAlif FM",
+  "country": "SA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3",
+  "logo": null
+ },
+ {
+  "id": "tn-mosaique-fm-tarab",
+  "name": "Mosaique FM Tarab",
+  "country": "TN",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://radio.mosaiquefm.net/mosatarab",
+  "logo": null
+ },
+ {
+  "id": "tn-sabra-fm",
+  "name": "Sabra FM",
+  "country": "TN",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://manager5.streamradio.fr:1905/stream",
+  "logo": null
+ },
+ {
+  "id": "ae-positively-meditation-om",
+  "name": "Positively Meditation -om",
+  "country": "AE",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://streaming.positivity.radio/pr/posimeditation/icecast.audio",
+  "logo": null
+ },
+ {
+  "id": "ma-fayroz",
+  "name": "Fayroz",
+  "country": "MA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/zv3e5wykprhvv.mp3",
+  "logo": null
+ },
+ {
+  "id": "iq-kurdistan-24",
+  "name": "Kurdistan 24",
+  "country": "IQ",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
+  "logo": null
+ },
+ {
+  "id": "iq-al-rasheed-fm-kirkuk",
+  "name": "Al rasheed fm )Kirkuk)",
+  "country": "IQ",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://streaming.shoutcast.com/alrasheed-kirkuk",
+  "logo": null
+ },
+ {
+  "id": "sa-jeddah",
+  "name": "Jeddah",
+  "country": "SA",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/cee738f00_WithoutLoveWhatsLife_.mp3",
+  "logo": "https://i.pinimg.com/736x/1a/1b/bf/1a1bbf8bd028d32d8912a8b52597b8f8.jpg"
+ },
+ {
+  "id": "iq-radio-shanasheel",
+  "name": "Radio Shanasheel",
+  "country": "IQ",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream-152.zeno.fm/a33ka0d94p8uv",
+  "logo": null
+ },
+ {
+  "id": "ly-radio-arts-tripoli",
+  "name": "راديو فنون طرابلس - Radio Arts Tripoli",
+  "country": "LY",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/z9wfrdpmgg0uv",
+  "logo": null
+ },
+ {
+  "id": "tn-radio-misk",
+  "name": "Radio Misk",
+  "country": "TN",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://live.misk.art/stream",
+  "logo": "https://www.misk.art/assets/img/logo_noir.png"
+ },
+ {
+  "id": "ae-exclusive-radio-black-sabbat",
+  "name": "Exclusive Radio – Black Sabbath",
+  "country": "AE",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://streaming.exclusive.radio/er/blacksabbath/icecast.audio",
+  "logo": "https://manager.uber.radio/static/uploads/station/00db5f78-23c8-40c6-86da-e0b06858e062.jpg"
+ },
+ {
+  "id": "ae-exclusively-abba",
+  "name": "Exclusively ABBA",
+  "country": "AE",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://streaming.exclusive.radio/er/abba/icecast.audio",
+  "logo": null
+ },
+ {
+  "id": "tn-ambiance-fm",
+  "name": "Ambiance FM",
+  "country": "TN",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://stream.zeno.fm/0rehsamc9xxtv",
+  "logo": null
+ },
+ {
+  "id": "sa-station-2",
+  "name": ".صور من حياة الصحابة",
+  "country": "SA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://qurango.net/radio/sahabah",
+  "logo": null
+ },
+ {
+  "id": "tn-fenn-radio",
+  "name": "راديو فن Fenn Radio",
+  "country": "TN",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/76e9f1gsduhvv",
+  "logo": null
+ },
+ {
+  "id": "jo-radio-hala",
+  "name": "Radio Hala",
+  "country": "JO",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://hala-alrayamedia.radioca.st/;",
+  "logo": "https://cdn-profiles.tunein.com/s183411/images/logog.jpg"
+ },
+ {
+  "id": "qa-al-jazzera-news-audio-hub-li",
+  "name": "Al Jazzera News Audio Hub Live English 20260312",
+  "country": "QA",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8",
+  "logo": null
+ },
+ {
+  "id": "sa-station-3",
+  "name": "القارئ علي الحذيفي رواية قالون",
+  "country": "SA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://qurango.net/radio/ali_alhuthaifi_qalon",
+  "logo": null
+ },
+ {
+  "id": "kw-islamina",
+  "name": "islamina",
+  "country": "KW",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://islamina.com/radio.mp3",
+  "logo": null
+ },
+ {
+  "id": "om-hala-fm",
+  "name": "Hala FM",
+  "country": "OM",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://listen-halafm.sharp-stream.com/halafmlow.mp3",
+  "logo": null
+ },
+ {
+  "id": "sa-1",
+  "name": "مقدمة رسالة ابن أبي زيد القيرواني1",
+  "country": "SA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3",
+  "logo": null
+ },
+ {
+  "id": "qa-suno-malayalam-fm",
+  "name": "Suno Malayalam FM",
+  "country": "QA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+  "logo": "https://suno.qa/favicon.ico"
+ },
+ {
+  "id": "kw-ofw-radio",
+  "name": "OFW Radio",
+  "country": "KW",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://s74.radiolize.com:8020/radio.mp3?t=1780673757445",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zlTxP-QMZVvQUOeVri0rmHntqKjsjtg2OyZFtn46qQ&s"
+ },
+ {
+  "id": "sd-dabanga-radio",
+  "name": "Dabanga Radio",
+  "country": "SD",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.dabangasudan.org/",
+  "logo": "https://www.dabangasudan.org/wp-content/uploads/2022/12/dabanga-logo-x2.png"
+ },
+ {
+  "id": "tn-alhayet-fm",
+  "name": "AlHayet FM",
+  "country": "TN",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://manager8.streamradio.fr:2885/stream",
+  "logo": null
+ },
+ {
+  "id": "qa-al-jazeera-arabic",
+  "name": "Al Jazeera Arabic",
+  "country": "QA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://live-hls-web-aja-gcp.thehlive.com/VOICE-AJA/index.m3u8",
+  "logo": "https://www.aljazeera.net/wp-content/uploads/2025/05/arabic-live-1747222223.jpg"
+ },
+ {
+  "id": "sd-dial-radio",
+  "name": "Dial Radio",
+  "country": "SD",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://cast.dialradio.live/stream.aac",
+  "logo": null
+ },
+ {
+  "id": "om-jazzwave-radio",
+  "name": "JazzWave Radio",
+  "country": "OM",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://servidor19.brlogic.com:7126/live",
+  "logo": "https://platform-upload.cdn-brlogic.com/246202/logo/2110a5264b0e40cecc62a70b644715be.png"
+ },
+ {
+  "id": "jo-mood-fm-92-amman",
+  "name": "Mood Fm 92 Amman",
+  "country": "JO",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://securestreams2.autopo.st:1241/live",
+  "logo": null
+ },
+ {
+  "id": "ps-radio-alhara",
+  "name": "Radio alHara",
+  "country": "PS",
+  "language": "ar",
+  "genre": "MUSIC",
+  "url": "https://stream.radioalhara.net/ra",
+  "logo": "https://radioalhara.net/img/radio-alhara-logo-512.png"
+ },
+ {
+  "id": "sd-hawa-al-sudan",
+  "name": "HAWA al Sudan",
+  "country": "SD",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/mqctx1bfd8zuv",
+  "logo": null
+ },
+ {
+  "id": "tn-station",
+  "name": ".مختصر السيرة",
+  "country": "TN",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
+  "logo": null
+ },
+ {
+  "id": "jo-jeish-fm-107-9",
+  "name": "Jeish FM 107.9",
+  "country": "JO",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://jeishfm-alrayamedia.radioca.st/;",
+  "logo": null
+ },
+ {
+  "id": "ly-almunir-radio-tripoli",
+  "name": "Almunir Radio – Tripoli",
+  "country": "LY",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://live.munir.ly/proxy/almunirtip/stream",
+  "logo": null
+ },
+ {
+  "id": "ly-almunir-radio-benghazi",
+  "name": "Almunir Radio – Benghazi",
+  "country": "LY",
+  "language": "ar",
+  "genre": "QURAN",
+  "url": "https://live.munir.ly/proxy/almunir/stream",
+  "logo": null
+ },
+ {
+  "id": "ly-105-7-fm",
+  "name": "إذاعة نور الإيمان المسموعة 105.7 FM",
+  "country": "LY",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://stream.zeno.fm/r6eprdta6nhvv",
+  "logo": null
+ },
+ {
+  "id": "sd-secret-of-future",
+  "name": "SECRET OF FUTURE",
+  "country": "SD",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://panel.radiocast.net/listen/secret_of_future/radio.mp3",
+  "logo": null
+ },
+ {
+  "id": "qa-radio-olive-106-3",
+  "name": "Radio Olive 106.3",
+  "country": "QA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
+  "logo": null
+ },
+ {
+  "id": "jo-yarmouk-university-fm",
+  "name": "Yarmouk University FM",
+  "country": "JO",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://yufm.yu.edu.jo/broadwave.mp3",
+  "logo": null
+ },
+ {
+  "id": "jo-beat-fm",
+  "name": "Beat FM",
+  "country": "JO",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://securestreams2.autopo.st:1242/live",
+  "logo": null
+ },
+ {
+  "id": "qa-radio-olive-106-3-jiyo-binda",
+  "name": "Radio Olive 106.3 - Jiyo Bindass",
+  "country": "QA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://22733.live.streamtheworld.com/OLIVE1063.mp3",
+  "logo": null
+ },
+ {
+  "id": "qa-radio-olive-106-3-fm",
+  "name": "Radio Olive 106.3 FM",
+  "country": "QA",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://osrnstream.olivesuno.com/olive1063.mp3",
+  "logo": "https://static2.mytuner.mobi/media/tvos_radios/vzn5tr4cru4r.png"
+ },
+ {
+  "id": "bh-beautiful-recitation",
+  "name": ".beautiful recitation",
+  "country": "BH",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://qurango.net/radio/salma",
+  "logo": null
+ },
+ {
+  "id": "qa-qbs-radio-97-5",
+  "name": "QBS Radio 97.5",
+  "country": "QA",
+  "language": "ar",
+  "genre": "NEWS",
+  "url": "https://live.kwikmotion.com/qmcqbsradiolive/qbsradio/playlist.m3u8",
+  "logo": "https://qbsradio.qa/assets/images/logomix1.png"
+ },
+ {
+  "id": "ps-amen24",
+  "name": "Amen24",
+  "country": "PS",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://rstream.hadara.ps/proxy/amen24/stream",
+  "logo": "https://amen24.ps/sites/default/files/amen-logo2_0.png"
+ },
+ {
+  "id": "bh-ccc",
+  "name": "ccc",
+  "country": "BH",
+  "language": "ar",
+  "genre": "GENERAL",
+  "url": "https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8",
+  "logo": null
+ }
+]

@@ -1,0 +1,42 @@
+name: iOS build
+
+# Builds the iOS app on a GitHub macOS runner (no Mac needed). This only checks that the project
+# compiles for the simulator; shipping to TestFlight is described in ios/README.md.
+on:
+  push:
+    branches: [develop, main]
+    paths:
+      - "ios/**"
+      - ".github/workflows/ios-build.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-14
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install XcodeGen
+        run: brew install xcodegen
+
+      - name: Generate the Xcode project
+        working-directory: ios
+        run: xcodegen generate
+
+      - name: Build for the iOS Simulator
+        working-directory: ios
+        run: |
+          set -o pipefail
+          xcodebuild build \
+            -project AnnesIPTV.xcodeproj \
+            -scheme AnnesIPTV \
+            -destination 'generic/platform=iOS Simulator' \
+            CODE_SIGNING_ALLOWED=NO \
+            | tee build.log
+
+      - name: Upload the build log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-build-log
+          path: ios/build.log

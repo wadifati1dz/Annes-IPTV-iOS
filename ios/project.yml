@@ -1,0 +1,42 @@
+name: AnnesIPTV
+options:
+  bundleIdPrefix: com.annes
+  deploymentTarget:
+    iOS: "16.0"
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "1.0.0"
+    CURRENT_PROJECT_VERSION: "1"
+targets:
+  AnnesIPTV:
+    type: application
+    platform: iOS
+    sources:
+      - path: AnnesIPTV
+        excludes:
+          - Info.plist
+    info:
+      path: AnnesIPTV/Info.plist
+      properties:
+        CFBundleDisplayName: Annes IPTV
+        CFBundleDevelopmentRegion: en
+        CFBundleLocalizations: [en, ar, fr]
+        UILaunchScreen: {}
+        UIRequiresFullScreen: false
+        UIBackgroundModes: [audio]
+        UISupportedInterfaceOrientations: [UIInterfaceOrientationPortrait, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
+        UISupportedInterfaceOrientations~ipad: [UIInterfaceOrientationPortrait, UIInterfaceOrientationPortraitUpsideDown, UIInterfaceOrientationLandscapeLeft, UIInterfaceOrientationLandscapeRight]
+        NSAppTransportSecurity:
+          NSAllowsArbitraryLoadsForMedia: true
+        NSPhotoLibraryUsageDescription: Choose a background picture for the app.
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.annes.iptv.ios
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: NO
+        INFOPLIST_FILE: AnnesIPTV/Info.plist
+        CODE_SIGN_STYLE: Automatic
+        ENABLE_PREVIEWS: NO
