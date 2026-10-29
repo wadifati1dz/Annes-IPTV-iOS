@@ -20,10 +20,13 @@ struct AnnesIPTVApp: App {
 }
 
 struct RootView: View {
+    @EnvironmentObject private var store: AppStore
     @EnvironmentObject private var radio: RadioPlayer
+    @State private var path = NavigationPath()
+    @State private var openedFromArguments = false
 
     var body: some View {
-        NavigationStack {
+        NavigationStack(path: $path) {
             HomeView()
                 .navigationDestination(for: Route.self) { route in
                     switch route {
@@ -41,6 +44,29 @@ struct RootView: View {
         }
         .fullScreenCover(isPresented: $radio.showFullScreen) {
             RadioNowPlayingView()
+        }
+        .task { openFromArguments() }
+    }
+
+    /// `-startRoute live|news|religious|radio|favorites|settings` opens that screen at launch and
+    /// `-startRadioFull 1` opens the full-screen radio player. They exist so the cloud build can
+    /// take screenshots of each screen; normal launches pass none of them.
+    private func openFromArguments() {
+        guard !openedFromArguments else { return }
+        openedFromArguments = true
+        let defaults = UserDefaults.standard
+        switch defaults.string(forKey: "startRoute") {
+        case "live": path.append(Route.liveTV(topic: nil))
+        case "news": path.append(Route.liveTV(topic: "news"))
+        case "religious": path.append(Route.liveTV(topic: "religious"))
+        case "radio": path.append(Route.radio)
+        case "favorites": path.append(Route.favorites)
+        case "settings": path.append(Route.settings)
+        default: break
+        }
+        if defaults.bool(forKey: "startRadioFull"), let first = store.stations.first(where: { $0.country == "DZ" }) ?? store.stations.first {
+            radio.play(first, queue: store.stations)
+            radio.showFullScreen = true
         }
     }
 }

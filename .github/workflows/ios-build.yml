@@ -1,7 +1,7 @@
 name: iOS build
 
-# Builds the iOS app on a GitHub macOS runner (no Mac needed). This only checks that the project
-# compiles for the simulator; shipping to TestFlight is described in ios/README.md.
+# Builds the iOS app on a GitHub macOS runner (no Mac needed), launches it in the iPhone simulator
+# and keeps a screenshot of each screen on the `screenshots` branch.
 on:
   push:
     branches: [develop, main]
@@ -10,10 +10,13 @@ on:
       - ".github/workflows/ios-build.yml"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: macos-15
-    timeout-minutes: 40
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -32,8 +35,48 @@ jobs:
             -project AnnesIPTV.xcodeproj \
             -scheme AnnesIPTV \
             -destination 'generic/platform=iOS Simulator' \
+            -derivedDataPath build \
             CODE_SIGNING_ALLOWED=NO \
             | tee build.log
+
+      - name: Screenshots in the simulator
+        working-directory: ios
+        continue-on-error: true
+        run: |
+          mkdir -p shots
+          DEVICE=$(xcrun simctl list devices available | grep -m1 "iPhone 1[5-9]" | sed -E 's/.*\(([0-9A-F-]{36})\).*/\1/')
+          echo "device: $DEVICE"
+          xcrun simctl boot "$DEVICE"
+          xcrun simctl bootstatus "$DEVICE" -b
+          xcrun simctl install "$DEVICE" build/Build/Products/Debug-iphonesimulator/AnnesIPTV.app
+          shot() {
+            name="$1"; shift
+            xcrun simctl launch "$DEVICE" com.annes.iptv.ios -language ar "$@"
+            sleep 45
+            xcrun simctl io "$DEVICE" screenshot "shots/$name.png"
+            xcrun simctl terminate "$DEVICE" com.annes.iptv.ios
+          }
+          shot home
+          shot live-bouquets -startRoute live
+          shot live-algeria -startRoute live -startBouquet DZ
+          shot news -startRoute news
+          shot radio-bouquets -startRoute radio
+          shot radio-algeria -startRoute radio -startBouquet DZ
+          shot radio-player -startRadioFull 1
+          shot settings -startRoute settings
+
+      - name: Publish the screenshots
+        if: always()
+        working-directory: ios
+        continue-on-error: true
+        run: |
+          [ -d shots ] || exit 0
+          cd shots
+          git init -q
+          git checkout -q -b screenshots
+          git add .
+          git -c user.name=ci -c user.email=ci@users.noreply.github.com commit -q -m "Simulator screenshots for ${GITHUB_SHA}"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" screenshots
 
       - name: Upload the build log
         if: always()

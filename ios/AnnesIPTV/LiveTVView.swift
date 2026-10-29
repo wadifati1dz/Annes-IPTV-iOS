@@ -106,6 +106,10 @@ struct LiveTVView: View {
             .refreshable { store.refresh() }
         }
         .appBackground()
+        .onAppear {
+            // Screenshot hook (see RootView): open a bouquet straight away.
+            if bouquet == nil, let key = UserDefaults.standard.string(forKey: "startBouquet") { bouquet = key }
+        }
         .navigationTitle(Text(titleKey))
         .navigationBarTitleDisplayMode(.inline)
         .fullScreenCover(item: $playing) { request in
