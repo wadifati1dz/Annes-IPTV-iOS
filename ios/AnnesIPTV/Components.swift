@@ -69,26 +69,56 @@ extension View {
     }
 }
 
+/// Loads logos with a browser-like User-Agent (several broadcasters refuse the default one) and keeps
+/// them in memory and on disk.
+final class ImageLoader {
+    static let shared = ImageLoader()
+
+    private let cache = NSCache<NSString, UIImage>()
+    private let session: URLSession
+
+    private init() {
+        let configuration = URLSessionConfiguration.default
+        configuration.urlCache = URLCache(memoryCapacity: 20_000_000, diskCapacity: 150_000_000)
+        configuration.requestCachePolicy = .returnCacheDataElseLoad
+        configuration.httpAdditionalHeaders = [
+            "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 "
+                + "(KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1"
+        ]
+        session = URLSession(configuration: configuration)
+    }
+
+    func load(_ urlString: String) async -> UIImage? {
+        if let cached = cache.object(forKey: urlString as NSString) { return cached }
+        guard let url = URL(string: urlString),
+              let (data, response) = try? await session.data(from: url),
+              (response as? HTTPURLResponse)?.statusCode == 200,
+              let image = UIImage(data: data) else { return nil }
+        cache.setObject(image, forKey: urlString as NSString)
+        return image
+    }
+}
+
 /// A channel / station logo; a missing or broken one falls back to the initials on a coloured badge.
 struct LogoView: View {
     let url: String?
     let name: String
 
+    @State private var image: UIImage?
+
     var body: some View {
         ZStack {
             Color(white: 0.13)
-            if let url, let parsed = URL(string: url) {
-                AsyncImage(url: parsed) { phase in
-                    switch phase {
-                    case .success(let image):
-                        image.resizable().scaledToFit().padding(5)
-                    default:
-                        Monogram(name: name)
-                    }
-                }
+            if let image {
+                Image(uiImage: image).resizable().scaledToFit().padding(5)
             } else {
                 Monogram(name: name)
             }
+        }
+        .task(id: url) {
+            image = nil
+            guard let url, !url.isEmpty else { return }
+            image = await ImageLoader.shared.load(url)
         }
     }
 }
